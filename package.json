@@ -1,0 +1,16 @@
+{
+  "name": "task6node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "furnitureServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node furnitureServer.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
